@@ -32,8 +32,4 @@ describe('Bubble Sort', function(){
     expect( bubbleSort([]) ).toEqual( [] );
   });
 
-
-
-
 });
-
